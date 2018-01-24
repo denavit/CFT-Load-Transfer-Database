@@ -1,14 +1,14 @@
 Author,Year,Specimen,L,L_units,D,D_units,t,t_units,Fy,Fy_units,fc,fc_units,fc_type,Vmax,Vmax_units,Fin,Fin_units,Tags,Notes
 Virdi and Dowling,1980,MA 1,13.5,in,6.086,in,0.25,in,,,3720,psi,Cube/6in,,,312.7,psi,,Concrete Age: 7 days
 Virdi and Dowling,1980,MA 4,13.5,in,6.113,in,0.25,in,,,5189,psi,Cube/6in,,,323.27,psi,,Concrete Age: 7 days
-Virdi and Dowling,1980,MA 6,13.5,in,6.089,in,0.25,in,,,3723,psi,Cube/6in,,,387.73,psi,,Concrete Age: 7 days
+Virdi and Dowling,1980,MA 5,13.5,in,6.089,in,0.25,in,,,3723,psi,Cube/6in,,,387.73,psi,,Concrete Age: 7 days
 Virdi and Dowling,1980,MA 9,13.5,in,6.104,in,0.25,in,,,4418,psi,Cube/6in,,,378.91,psi,,Concrete Age: 10 days
 Virdi and Dowling,1980,MA 2,13.5,in,6.114,in,0.25,in,,,5189,psi,Cube/6in,,,301.22,psi,,Concrete Age: 14 days
 Virdi and Dowling,1980,MA 7,13.5,in,6.091,in,0.25,in,,,5189,psi,Cube/6in,,,398.44,psi,,Concrete Age: 14 days
 Virdi and Dowling,1980,MA 8,13.5,in,6.089,in,0.25,in,,,5189,psi,Cube/6in,,,340.83,psi,,Concrete Age: 14 days
 Virdi and Dowling,1980,MA 10,13.5,in,6.104,in,0.25,in,,,5400,psi,Cube/6in,,,398.95,psi,,Concrete Age: 21 days
 Virdi and Dowling,1980,MA 3,13.5,in,6.109,in,0.25,in,,,5849,psi,Cube/6in,,,430.93,psi,,Concrete Age: 28 days
-Virdi and Dowling,1980,MA 5,13.5,in,6.086,in,0.25,in,,,5849,psi,Cube/6in,,,324.81,psi,,Concrete Age: 28 days
+Virdi and Dowling,1980,MA 6,13.5,in,6.086,in,0.25,in,,,5849,psi,Cube/6in,,,324.81,psi,,Concrete Age: 28 days
 Virdi and Dowling,1980,CS14,13.5,in,6.129,in,0.25,in,,,3190,psi,Cube/6in,,,281.73,psi,,
 Virdi and Dowling,1980,CS21,13.5,in,6.101,in,0.25,in,,,3190,psi,Cube/6in,,,272.48,psi,,
 Virdi and Dowling,1980,CS28,13.5,in,6.115,in,0.25,in,,,3190,psi,Cube/6in,,,188.86,psi,,
@@ -153,13 +153,13 @@ Aly et al.,2010,A1,400,mm,114.3,mm,3.2,mm,350,MPa,71,MPa,Cylinder/100mm,136,kN,,
 Aly et al.,2010,B1,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,160,kN,,,,
 Aly et al.,2010,C1,400,mm,114.3,mm,3.2,mm,350,MPa,69,MPa,Cylinder/100mm,124,kN,,,,
 Aly et al.,2010,D1,400,mm,114.3,mm,3.2,mm,350,MPa,64,MPa,Cylinder/100mm,160,kN,,,,
-Aly et al.,2010,E1,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,169,kN,,,,
-Aly et al.,2010,F1,400,mm,114.3,mm,3.2,mm,350,MPa,81,MPa,Cylinder/100mm,83,kN,,,,
-Aly et al.,2010,G1,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,139,kN,,,,
+Aly et al.,2010,F1,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,169,kN,,,,
+Aly et al.,2010,G1,400,mm,114.3,mm,3.2,mm,350,MPa,81,MPa,Cylinder/100mm,83,kN,,,,
+Aly et al.,2010,H1,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,139,kN,,,,
 Aly et al.,2010,A2,400,mm,114.3,mm,3.2,mm,350,MPa,74,MPa,Cylinder/100mm,,,0.81,MPa,CyclicLoad,Variable repeated load (VRL)
 Aly et al.,2010,B2,400,mm,114.3,mm,3.2,mm,350,MPa,48,MPa,Cylinder/100mm,,,0.83,MPa,CyclicLoad,Variable repeated load (VRL)
 Aly et al.,2010,C2,400,mm,114.3,mm,3.2,mm,350,MPa,69,MPa,Cylinder/100mm,,,0.64,MPa,CyclicLoad,Variable repeated load (VRL)
 Aly et al.,2010,D2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.93,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,E2,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,,,0.95,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,F2,400,mm,114.3,mm,3.2,mm,350,MPa,91,MPa,Cylinder/100mm,,,0.35,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,G2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.7,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,F2,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,,,0.95,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,G2,400,mm,114.3,mm,3.2,mm,350,MPa,91,MPa,Cylinder/100mm,,,0.35,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,H2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.7,MPa,CyclicLoad,Variable repeated load (VRL)
