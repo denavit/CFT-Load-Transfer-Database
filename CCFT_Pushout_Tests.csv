@@ -1,165 +1,165 @@
-author,year,specimen,L,L_units,D,D_units,t,t_units,Fy,Fy_units,fc,fc_units,Vmax,Vmax_units,Fin,Fin_units,tags,notes
-Virdi and Dowling,1980,MA 1,13.5,in,6.086,in,0.25,in,,,3720,psi,,,312.7,psi,,Concrete Age: 7 days
-Virdi and Dowling,1980,MA 4,13.5,in,6.113,in,0.25,in,,,5189,psi,,,323.27,psi,,Concrete Age: 7 days
-Virdi and Dowling,1980,MA 6,13.5,in,6.089,in,0.25,in,,,3723,psi,,,387.73,psi,,Concrete Age: 7 days
-Virdi and Dowling,1980,MA 9,13.5,in,6.104,in,0.25,in,,,4418,psi,,,378.91,psi,,Concrete Age: 10 days
-Virdi and Dowling,1980,MA 2,13.5,in,6.114,in,0.25,in,,,5189,psi,,,301.22,psi,,Concrete Age: 14 days
-Virdi and Dowling,1980,MA 7,13.5,in,6.091,in,0.25,in,,,5189,psi,,,398.44,psi,,Concrete Age: 14 days
-Virdi and Dowling,1980,MA 8,13.5,in,6.089,in,0.25,in,,,5189,psi,,,340.83,psi,,Concrete Age: 14 days
-Virdi and Dowling,1980,MA 10,13.5,in,6.104,in,0.25,in,,,5400,psi,,,398.95,psi,,Concrete Age: 21 days
-Virdi and Dowling,1980,MA 3,13.5,in,6.109,in,0.25,in,,,5849,psi,,,430.93,psi,,Concrete Age: 28 days
-Virdi and Dowling,1980,MA 5,13.5,in,6.086,in,0.25,in,,,5849,psi,,,324.81,psi,,Concrete Age: 28 days
-Virdi and Dowling,1980,CS14,13.5,in,6.129,in,0.25,in,,,3190,psi,,,281.73,psi,,
-Virdi and Dowling,1980,CS21,13.5,in,6.101,in,0.25,in,,,3190,psi,,,272.48,psi,,
-Virdi and Dowling,1980,CS28,13.5,in,6.115,in,0.25,in,,,3190,psi,,,188.86,psi,,
-Virdi and Dowling,1980,CS19,13.5,in,6.11,in,0.25,in,,,3967,psi,,,324.22,psi,,
-Virdi and Dowling,1980,CS22,13.5,in,6.118,in,0.25,in,,,3967,psi,,,200.58,psi,,
-Virdi and Dowling,1980,CS25,13.5,in,6.148,in,0.25,in,,,3967,psi,,,306.43,psi,,
-Virdi and Dowling,1980,CS13,13.5,in,6.151,in,0.25,in,,,4075,psi,,,208.05,psi,,
-Virdi and Dowling,1980,CS24,13.5,in,6.137,in,0.25,in,,,4075,psi,,,226.21,psi,,
-Virdi and Dowling,1980,CS27,13.5,in,6.161,in,0.25,in,,,4075,psi,,,268.81,psi,,
-Virdi and Dowling,1980,CS12,13.5,in,6.164,in,0.25,in,,,4360,psi,,,256.42,psi,,
-Virdi and Dowling,1980,CS18,13.5,in,6.109,in,0.25,in,,,4360,psi,,,274.06,psi,,
-Virdi and Dowling,1980,CS26,13.5,in,6.152,in,0.25,in,,,4360,psi,,,232.05,psi,,
-Virdi and Dowling,1980,CS11,13.5,in,6.145,in,0.25,in,,,5305,psi,,,276.5,psi,,
-Virdi and Dowling,1980,CS16,13.5,in,6.129,in,0.25,in,,,5305,psi,,,271.56,psi,,
-Virdi and Dowling,1980,CS20,13.5,in,6.148,in,0.25,in,,,5305,psi,,,305.84,psi,,
-Virdi and Dowling,1980,CS15,13.5,in,6.122,in,0.25,in,,,6052,psi,,,339.57,psi,,
-Virdi and Dowling,1980,CS17,13.5,in,6.16,in,0.25,in,,,6052,psi,,,219.47,psi,,
-Virdi and Dowling,1980,CS23,13.5,in,6.155,in,0.25,in,,,6052,psi,,,223.07,psi,,
-Virdi and Dowling,1980,LN41,5.88,in,5.918,in,0.375,in,,,5848,psi,,,285.14,psi,,
-Virdi and Dowling,1980,LN42,5.88,in,5.889,in,0.375,in,,,5848,psi,,,318.01,psi,,
-Virdi and Dowling,1980,LN43,5.88,in,5.876,in,0.375,in,,,5848,psi,,,311.39,psi,,
-Virdi and Dowling,1980,LN29,8.81,in,5.846,in,0.375,in,,,5848,psi,,,236.99,psi,,
-Virdi and Dowling,1980,LN30,8.81,in,5.853,in,0.375,in,,,5848,psi,,,281.22,psi,,
-Virdi and Dowling,1980,LN31,8.81,in,5.862,in,0.375,in,,,5848,psi,,,294.63,psi,,
-Virdi and Dowling,1980,LN32,11.75,in,5.85,in,0.375,in,,,5848,psi,,,304.52,psi,,
-Virdi and Dowling,1980,LN33,11.75,in,5.895,in,0.375,in,,,5848,psi,,,327.19,psi,,
-Virdi and Dowling,1980,LN34,11.75,in,5.941,in,0.375,in,,,5848,psi,,,343.55,psi,,
-Virdi and Dowling,1980,LN35,14.69,in,5.867,in,0.375,in,,,5848,psi,,,356.56,psi,,
-Virdi and Dowling,1980,LN36,14.69,in,5.932,in,0.375,in,,,5848,psi,,,370.86,psi,,
-Virdi and Dowling,1980,LN37,14.69,in,5.926,in,0.375,in,,,5848,psi,,,344.38,psi,,
-Virdi and Dowling,1980,LN38,17.63,in,5.872,in,0.375,in,,,5848,psi,,,421.25,psi,,
-Virdi and Dowling,1980,LN39,17.63,in,5.889,in,0.375,in,,,5848,psi,,,408.31,psi,,
-Virdi and Dowling,1980,LN40,17.63,in,5.897,in,0.375,in,,,5848,psi,,,395.33,psi,,
-Virdi and Dowling,1980,SZ50,18.25,in,5.874,in,0.381,in,,,6720,psi,,,350.32,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ51,18.25,in,5.908,in,0.383,in,,,6720,psi,,,259.55,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ52,18.25,in,5.877,in,0.379,in,,,6720,psi,,,344.57,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ53,18.25,in,6.157,in,0.257,in,,,6720,psi,,,159.21,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ54,18.25,in,6.153,in,0.258,in,,,6720,psi,,,187.84,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ55,18.25,in,6.173,in,0.261,in,,,6720,psi,,,146.83,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ56,18.25,in,6.256,in,0.226,in,,,6720,psi,,,213.1,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ57,18.25,in,6.214,in,0.224,in,,,6720,psi,,,181.08,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ58,18.25,in,6.251,in,0.221,in,,,6720,psi,,,209.72,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ59,18.25,in,8.149,in,0.256,in,,,6720,psi,,,275.63,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ60,18.25,in,8.176,in,0.261,in,,,6720,psi,,,281.99,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ61,18.25,in,8.135,in,0.268,in,,,6720,psi,,,255.53,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ62,18.25,in,9.117,in,0.289,in,,,6720,psi,,,90.87,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ63,18.25,in,9.105,in,0.289,in,,,6720,psi,,,75.39,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ64,18.25,in,9.132,in,0.283,in,,,6720,psi,,,84.17,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ65,18.25,in,12.04,in,0.376,in,,,6720,psi,,,291.78,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ66,18.25,in,12.022,in,0.377,in,,,6720,psi,,,288.73,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,SZ67,18.25,in,12.047,in,0.375,in,,,6720,psi,,,290.41,psi,,Concrete Age: 47 days
-Virdi and Dowling,1980,CC70,13.5,in,5.896,in,0.383,in,,,4457,psi,,,381.74,psi,,
-Virdi and Dowling,1980,CC71,13.5,in,5.86,in,0.391,in,,,4457,psi,,,370.53,psi,,
-Virdi and Dowling,1980,CC72,13.5,in,5.862,in,0.389,in,,,4457,psi,,,359.86,psi,,
-Virdi and Dowling,1980,CC73,13.5,in,5.882,in,0.385,in,,,5405,psi,,,293.4,psi,,
-Virdi and Dowling,1980,CC74,13.5,in,5.86,in,0.382,in,,,5405,psi,,,306.57,psi,,
-Virdi and Dowling,1980,CC75,13.5,in,5.9,in,0.382,in,,,5405,psi,,,310.82,psi,,
-Virdi and Dowling,1980,CC76,13.5,in,5.917,in,0.386,in,,,5133,psi,,,308.29,psi,,
-Virdi and Dowling,1980,CC77,13.5,in,5.862,in,0.386,in,,,5133,psi,,,329.86,psi,,
-Virdi and Dowling,1980,CC78,13.5,in,5.878,in,0.384,in,,,5133,psi,,,310.07,psi,,
-Virdi and Dowling,1980,CC79,13.5,in,5.917,in,0.381,in,,,5133,psi,,,267.95,psi,,
-Virdi and Dowling,1980,CC80,13.5,in,5.911,in,0.381,in,,,5133,psi,,,320.88,psi,,
-Virdi and Dowling,1980,CC81,13.5,in,5.892,in,0.378,in,,,5133,psi,,,216.71,psi,,
-Virdi and Dowling,1980,CC82,13.5,in,5.858,in,0.381,in,,,5133,psi,,,260.84,psi,,
-Virdi and Dowling,1980,CC83,13.5,in,5.842,in,0.382,in,,,5133,psi,,,223.58,psi,,
-Virdi and Dowling,1980,CC84,13.5,in,5.858,in,0.382,in,,,5133,psi,,,217.58,psi,,
-Virdi and Dowling,1980,CC85,13.5,in,5.864,in,0.382,in,,,5133,psi,,,168.5,psi,,
-Virdi and Dowling,1980,CC86,13.5,in,5.903,in,0.381,in,,,5133,psi,,,213.83,psi,,
-Virdi and Dowling,1980,CC87,13.5,in,5.885,in,0.397,in,,,5133,psi,,,241.16,psi,,
-Virdi and Dowling,1980,RD91,13.5,in,6.121,in,0.267,in,,,6713,psi,,,285.57,psi,,
-Virdi and Dowling,1980,RD92,13.5,in,6.082,in,0.285,in,,,6713,psi,,,312.77,psi,,
-Virdi and Dowling,1980,RD93,13.5,in,6.097,in,0.274,in,,,6713,psi,,,362.19,psi,,
-Virdi and Dowling,1980,ST44,13.5,in,6.198,in,0.283,in,,,6713,psi,,,60.63,psi,SurfaceTreatment,Inside of steel tube machined to smooth finish
-Virdi and Dowling,1980,ST45,13.5,in,6.17,in,0.283,in,,,6713,psi,,,45.12,psi,SurfaceTreatment,Inside of steel tube machined to smooth finish
-Virdi and Dowling,1980,ST46,13.5,in,6.178,in,0.283,in,,,6713,psi,,,38.51,psi,SurfaceTreatment,Inside of steel tube machined to smooth finish
-Virdi and Dowling,1980,PH47,13.5,in,6.11,in,0.26,in,,,6713,psi,,,109.23,psi,SurfaceTreatment,Inside of steel tube lubriacted
-Virdi and Dowling,1980,PH48,13.5,in,6.119,in,0.27,in,,,6713,psi,,,163.93,psi,SurfaceTreatment,Inside of steel tube lubriacted
-Virdi and Dowling,1980,PH49,13.5,in,6.116,in,0.27,in,,,6713,psi,,,104.24,psi,SurfaceTreatment,Inside of steel tube lubriacted
-Shakir-Khalil,1993a,Y4a,202,mm,168.3,mm,5,mm,,,42,MPa,88.7,kN,,,,
-Shakir-Khalil,1993a,Y4b,203,mm,168.3,mm,5,mm,,,42,MPa,93.9,kN,,,,
-Shakir-Khalil,1993a,Y5a,399,mm,168.3,mm,5,mm,,,42,MPa,156.4,kN,,,,
-Shakir-Khalil,1993a,Y5b,400,mm,168.3,mm,5,mm,,,42,MPa,159.4,kN,,,,
-Shakir-Khalil,1993a,Y6a,600,mm,168.3,mm,5,mm,,,42,MPa,215.2,kN,,,,
-Shakir-Khalil,1993a,Y6b,599,mm,168.3,mm,5,mm,,,42,MPa,194.3,kN,,,,
-Shakir-Khalil,1993a,Y4ao,202,mm,168.3,mm,5,mm,,,44.3,MPa,18.8,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y4bo,203,mm,168.3,mm,5,mm,,,44.3,MPa,29.7,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y5ao,397,mm,168.3,mm,5,mm,,,44.3,MPa,95.7,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y5bo,400,mm,168.3,mm,5,mm,,,44.3,MPa,84.7,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y6ao,599,mm,168.3,mm,5,mm,,,44.3,MPa,106.6,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y6bo,600,mm,168.3,mm,5,mm,,,44.3,MPa,116.6,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993b,B1a,400,mm,168.3,mm,5,mm,,,38.6,MPa,86.7,kN,,,,
-Shakir-Khalil,1993b,B1b,404,mm,168.3,mm,5,mm,,,38.6,MPa,95.7,kN,,,,
-Shakir-Khalil,1993b,D1a,400,mm,168.3,mm,5,mm,,,40.1,MPa,830,kN,,,WithShearTabs,Bracket Failure
-Shakir-Khalil,1993b,D1b,398,mm,168.3,mm,5,mm,,,40.1,MPa,810,kN,,,WithShearTabs,Bracket Failure
-Shakir-Khalil,1993b,F1a,401,mm,168.3,mm,5,mm,,,37.1,MPa,947,kN,,,WithShearTabs,Bracket Failure
-Shakir-Khalil,1993b,F1b,396,mm,168.3,mm,5,mm,,,40.8,MPa,971,kN,,,WithShearTabs,Bracket Failure
-Shakir-Khalil,1993b,H1,403,mm,168.3,mm,5,mm,,,39.6,MPa,187,kN,,,,
-Shakir-Khalil,1993b,H2,401,mm,168.3,mm,5,mm,,,39.6,MPa,765,kN,,,WithShearTabs,"Slip Failure, no peak reached"
-Shakir-Khalil,1993b,H3,403,mm,168.3,mm,5,mm,,,39.6,MPa,743,kN,,,WithShearTabs,"Slip Failure, no peak reached"
-Shakir-Khalil,1993b,H4,400,mm,168.3,mm,5,mm,,,39.6,MPa,269,kN,,,WithShearTabs,Slip Failure
-Roeder et al.,1999,I-1,758,mm,274.52,mm,13.46,mm,,,29.3,MPa,6.2,kN,,,,moderate shrinkage concrete
-Roeder et al.,1999,I-2,758,mm,274.52,mm,13.46,mm,,,29.3,MPa,15.6,kN,,,EccentricLoad,moderate shrinkage concrete
-Roeder et al.,1999,I-3,1064,mm,355.62,mm,7.11,mm,,,27.9,MPa,36,kN,,,,moderate shrinkage concrete
-Roeder et al.,1999,I-4,1064,mm,355.62,mm,7.11,mm,,,27.9,MPa,42.7,kN,,,,moderate shrinkage concrete
-Roeder et al.,1999,I-5,1775,mm,355.62,mm,7.11,mm,,,37.3,MPa,247.9,kN,,,,moderate shrinkage concrete
-Roeder et al.,1999,I-6,1775,mm,355.62,mm,7.11,mm,,,28.6,MPa,82.8,kN,,,,moderate shrinkage concrete
-Roeder et al.,1999,I-7,1927,mm,609.58,mm,5.59,mm,,,29.3,MPa,192.2,kN,,,,moderate shrinkage concrete
-Roeder et al.,1999,I-8,1927,mm,609.58,mm,5.59,mm,,,28.6,MPa,236.7,kN,,,EccentricLoad,moderate shrinkage concrete
-Roeder et al.,1999,II-1,810,mm,274.52,mm,13.46,mm,,,47.2,MPa,486.4,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-2,810,mm,274.52,mm,13.46,mm,,,46.6,MPa,494.8,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-3,810,mm,274.52,mm,13.46,mm,,,46.6,MPa,488.2,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-4,1495,mm,274.52,mm,13.46,mm,,,43.9,MPa,371.6,kN,,,CyclicLoad,low shrinkage concrete
-Roeder et al.,1999,II-5,1064,mm,355.62,mm,7.11,mm,,,47.3,MPa,315.5,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-6,1064,mm,355.62,mm,7.11,mm,,,47.3,MPa,404.1,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-7,1775,mm,355.62,mm,7.11,mm,,,43.9,MPa,332,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-8,1775,mm,355.62,mm,7.11,mm,,,43.9,MPa,355.6,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-9,1927,mm,609.58,mm,5.59,mm,,,44.9,MPa,523.3,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-10,1927,mm,609.58,mm,5.59,mm,,,47.2,MPa,635.9,kN,,,,low shrinkage concrete
-Roeder et al.,1999,II-11,1927,mm,609.58,mm,5.59,mm,,,46.2,MPa,332.4,kN,,,,"dented tube, low shrinkage concrete"
-Roeder et al.,1999,II-12,1927,mm,609.58,mm,5.59,mm,,,46.2,MPa,332.9,kN,,,,"dented tube, low shrinkage concrete"
-Xu et al.,2009,SI-a,500,mm,155.5,mm,2.75,mm,,,49,MPa,325.2,kN,,,ExpansiveConcrete,least expansive
-Xu et al.,2009,SI-b,500,mm,155.5,mm,2.75,mm,,,48.6,MPa,353.4,kN,,,ExpansiveConcrete,moderately expansive
-Xu et al.,2009,SI-c,500,mm,155.5,mm,2.75,mm,,,46.8,MPa,393.5,kN,,,ExpansiveConcrete,very expansive
-Xu et al.,2009,SI-o,500,mm,155.5,mm,2.75,mm,,,47,MPa,141.4,kN,,,,No expansive concrete
-Xu et al.,2009,SII-a,500,mm,157,mm,3.5,mm,,,49,MPa,339.3,kN,,,ExpansiveConcrete,least expansive
-Xu et al.,2009,SII-b,500,mm,157,mm,3.5,mm,,,48.6,MPa,377,kN,,,ExpansiveConcrete,moderately expansive
-Xu et al.,2009,SII-c,500,mm,157,mm,3.5,mm,,,46.8,MPa,412.3,kN,,,ExpansiveConcrete,very expansive
-Xu et al.,2009,SII-o,500,mm,157,mm,3.5,mm,,,47,MPa,153.2,kN,,,,No expansive concrete
-Xu et al.,2009,SIII-a,500,mm,159,mm,4.5,mm,,,49,MPa,367.6,kN,,,ExpansiveConcrete,least expansive
-Xu et al.,2009,SIII-b,500,mm,159,mm,4.5,mm,,,48.6,MPa,400.6,kN,,,ExpansiveConcrete,moderately expansive
-Xu et al.,2009,SIII-c,500,mm,159,mm,4.5,mm,,,46.8,MPa,433.5,kN,,,ExpansiveConcrete,very expansive
-Xu et al.,2009,SIII-o,500,mm,159,mm,4.5,mm,,,47,MPa,157.9,kN,,,,No expansive concrete
-Xu et al.,2009,LI,800,mm,155.5,mm,2.75,mm,,,46.8,MPa,723.8,kN,,,ExpansiveConcrete,"mix c, variable length"
-Xu et al.,2009,LII,600,mm,155.5,mm,2.75,mm,,,46.8,MPa,517.4,kN,,,ExpansiveConcrete,"mix c, variable length"
-Xu et al.,2009,LIII,550,mm,155.5,mm,2.75,mm,,,46.8,MPa,482.1,kN,,,ExpansiveConcrete,"mix c, variable length"
-Xu et al.,2009,LIV,300,mm,155.5,mm,2.75,mm,,,46.8,MPa,199.3,kN,,,ExpansiveConcrete,"mix c, variable length"
-Xu et al.,2009,LV,200,mm,155.5,mm,2.75,mm,,,46.8,MPa,118.8,kN,,,ExpansiveConcrete,"mix c, variable length"
-Xu et al.,2009,F-d,600,mm,157,mm,3.5,mm,,,33.2,MPa,381.7,kN,,,ExpansiveConcrete,"mix d, variable f'c"
-Xu et al.,2009,F-e,600,mm,157,mm,3.5,mm,,,38.5,MPa,418.5,kN,,,ExpansiveConcrete,"mix e, variable f'c"
-Xu et al.,2009,F-f,600,mm,157,mm,3.5,mm,,,53,MPa,452.4,kN,,,ExpansiveConcrete,"mix f, variable f'c"
-Aly et al.,2010,A1,400,mm,114.3,mm,3.2,mm,350,MPa,71,MPa,136,kN,,,,
-Aly et al.,2010,B1,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,160,kN,,,,
-Aly et al.,2010,C1,400,mm,114.3,mm,3.2,mm,350,MPa,69,MPa,124,kN,,,,
-Aly et al.,2010,D1,400,mm,114.3,mm,3.2,mm,350,MPa,64,MPa,160,kN,,,,
-Aly et al.,2010,E1,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,169,kN,,,,
-Aly et al.,2010,F1,400,mm,114.3,mm,3.2,mm,350,MPa,81,MPa,83,kN,,,,
-Aly et al.,2010,G1,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,139,kN,,,,
-Aly et al.,2010,A2,400,mm,114.3,mm,3.2,mm,350,MPa,74,MPa,,,0.81,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,B2,400,mm,114.3,mm,3.2,mm,350,MPa,48,MPa,,,0.83,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,C2,400,mm,114.3,mm,3.2,mm,350,MPa,69,MPa,,,0.64,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,D2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,,,0.93,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,E2,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,,,0.95,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,F2,400,mm,114.3,mm,3.2,mm,350,MPa,91,MPa,,,0.35,MPa,CyclicLoad,Variable repeated load (VRL)
-Aly et al.,2010,G2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,,,0.7,MPa,CyclicLoad,Variable repeated load (VRL)
+Author,Year,Specimen,L,L_units,D,D_units,t,t_units,Fy,Fy_units,fc,fc_units,fc_type,Vmax,Vmax_units,Fin,Fin_units,Tags,Notes
+Virdi and Dowling,1980,MA 1,13.5,in,6.086,in,0.25,in,,,3720,psi,Cube/6in,,,312.7,psi,,Concrete Age: 7 days
+Virdi and Dowling,1980,MA 4,13.5,in,6.113,in,0.25,in,,,5189,psi,Cube/6in,,,323.27,psi,,Concrete Age: 7 days
+Virdi and Dowling,1980,MA 6,13.5,in,6.089,in,0.25,in,,,3723,psi,Cube/6in,,,387.73,psi,,Concrete Age: 7 days
+Virdi and Dowling,1980,MA 9,13.5,in,6.104,in,0.25,in,,,4418,psi,Cube/6in,,,378.91,psi,,Concrete Age: 10 days
+Virdi and Dowling,1980,MA 2,13.5,in,6.114,in,0.25,in,,,5189,psi,Cube/6in,,,301.22,psi,,Concrete Age: 14 days
+Virdi and Dowling,1980,MA 7,13.5,in,6.091,in,0.25,in,,,5189,psi,Cube/6in,,,398.44,psi,,Concrete Age: 14 days
+Virdi and Dowling,1980,MA 8,13.5,in,6.089,in,0.25,in,,,5189,psi,Cube/6in,,,340.83,psi,,Concrete Age: 14 days
+Virdi and Dowling,1980,MA 10,13.5,in,6.104,in,0.25,in,,,5400,psi,Cube/6in,,,398.95,psi,,Concrete Age: 21 days
+Virdi and Dowling,1980,MA 3,13.5,in,6.109,in,0.25,in,,,5849,psi,Cube/6in,,,430.93,psi,,Concrete Age: 28 days
+Virdi and Dowling,1980,MA 5,13.5,in,6.086,in,0.25,in,,,5849,psi,Cube/6in,,,324.81,psi,,Concrete Age: 28 days
+Virdi and Dowling,1980,CS14,13.5,in,6.129,in,0.25,in,,,3190,psi,Cube/6in,,,281.73,psi,,
+Virdi and Dowling,1980,CS21,13.5,in,6.101,in,0.25,in,,,3190,psi,Cube/6in,,,272.48,psi,,
+Virdi and Dowling,1980,CS28,13.5,in,6.115,in,0.25,in,,,3190,psi,Cube/6in,,,188.86,psi,,
+Virdi and Dowling,1980,CS19,13.5,in,6.11,in,0.25,in,,,3967,psi,Cube/6in,,,324.22,psi,,
+Virdi and Dowling,1980,CS22,13.5,in,6.118,in,0.25,in,,,3967,psi,Cube/6in,,,200.58,psi,,
+Virdi and Dowling,1980,CS25,13.5,in,6.148,in,0.25,in,,,3967,psi,Cube/6in,,,306.43,psi,,
+Virdi and Dowling,1980,CS13,13.5,in,6.151,in,0.25,in,,,4075,psi,Cube/6in,,,208.05,psi,,
+Virdi and Dowling,1980,CS24,13.5,in,6.137,in,0.25,in,,,4075,psi,Cube/6in,,,226.21,psi,,
+Virdi and Dowling,1980,CS27,13.5,in,6.161,in,0.25,in,,,4075,psi,Cube/6in,,,268.81,psi,,
+Virdi and Dowling,1980,CS12,13.5,in,6.164,in,0.25,in,,,4360,psi,Cube/6in,,,256.42,psi,,
+Virdi and Dowling,1980,CS18,13.5,in,6.109,in,0.25,in,,,4360,psi,Cube/6in,,,274.06,psi,,
+Virdi and Dowling,1980,CS26,13.5,in,6.152,in,0.25,in,,,4360,psi,Cube/6in,,,232.05,psi,,
+Virdi and Dowling,1980,CS11,13.5,in,6.145,in,0.25,in,,,5305,psi,Cube/6in,,,276.5,psi,,
+Virdi and Dowling,1980,CS16,13.5,in,6.129,in,0.25,in,,,5305,psi,Cube/6in,,,271.56,psi,,
+Virdi and Dowling,1980,CS20,13.5,in,6.148,in,0.25,in,,,5305,psi,Cube/6in,,,305.84,psi,,
+Virdi and Dowling,1980,CS15,13.5,in,6.122,in,0.25,in,,,6052,psi,Cube/6in,,,339.57,psi,,
+Virdi and Dowling,1980,CS17,13.5,in,6.16,in,0.25,in,,,6052,psi,Cube/6in,,,219.47,psi,,
+Virdi and Dowling,1980,CS23,13.5,in,6.155,in,0.25,in,,,6052,psi,Cube/6in,,,223.07,psi,,
+Virdi and Dowling,1980,LN41,5.88,in,5.918,in,0.375,in,,,5848,psi,Cube/6in,,,285.14,psi,,
+Virdi and Dowling,1980,LN42,5.88,in,5.889,in,0.375,in,,,5848,psi,Cube/6in,,,318.01,psi,,
+Virdi and Dowling,1980,LN43,5.88,in,5.876,in,0.375,in,,,5848,psi,Cube/6in,,,311.39,psi,,
+Virdi and Dowling,1980,LN29,8.81,in,5.846,in,0.375,in,,,5848,psi,Cube/6in,,,236.99,psi,,
+Virdi and Dowling,1980,LN30,8.81,in,5.853,in,0.375,in,,,5848,psi,Cube/6in,,,281.22,psi,,
+Virdi and Dowling,1980,LN31,8.81,in,5.862,in,0.375,in,,,5848,psi,Cube/6in,,,294.63,psi,,
+Virdi and Dowling,1980,LN32,11.75,in,5.85,in,0.375,in,,,5848,psi,Cube/6in,,,304.52,psi,,
+Virdi and Dowling,1980,LN33,11.75,in,5.895,in,0.375,in,,,5848,psi,Cube/6in,,,327.19,psi,,
+Virdi and Dowling,1980,LN34,11.75,in,5.941,in,0.375,in,,,5848,psi,Cube/6in,,,343.55,psi,,
+Virdi and Dowling,1980,LN35,14.69,in,5.867,in,0.375,in,,,5848,psi,Cube/6in,,,356.56,psi,,
+Virdi and Dowling,1980,LN36,14.69,in,5.932,in,0.375,in,,,5848,psi,Cube/6in,,,370.86,psi,,
+Virdi and Dowling,1980,LN37,14.69,in,5.926,in,0.375,in,,,5848,psi,Cube/6in,,,344.38,psi,,
+Virdi and Dowling,1980,LN38,17.63,in,5.872,in,0.375,in,,,5848,psi,Cube/6in,,,421.25,psi,,
+Virdi and Dowling,1980,LN39,17.63,in,5.889,in,0.375,in,,,5848,psi,Cube/6in,,,408.31,psi,,
+Virdi and Dowling,1980,LN40,17.63,in,5.897,in,0.375,in,,,5848,psi,Cube/6in,,,395.33,psi,,
+Virdi and Dowling,1980,SZ50,18.25,in,5.874,in,0.381,in,,,6720,psi,Cube/6in,,,350.32,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ51,18.25,in,5.908,in,0.383,in,,,6720,psi,Cube/6in,,,259.55,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ52,18.25,in,5.877,in,0.379,in,,,6720,psi,Cube/6in,,,344.57,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ53,18.25,in,6.157,in,0.257,in,,,6720,psi,Cube/6in,,,159.21,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ54,18.25,in,6.153,in,0.258,in,,,6720,psi,Cube/6in,,,187.84,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ55,18.25,in,6.173,in,0.261,in,,,6720,psi,Cube/6in,,,146.83,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ56,18.25,in,6.256,in,0.226,in,,,6720,psi,Cube/6in,,,213.1,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ57,18.25,in,6.214,in,0.224,in,,,6720,psi,Cube/6in,,,181.08,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ58,18.25,in,6.251,in,0.221,in,,,6720,psi,Cube/6in,,,209.72,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ59,18.25,in,8.149,in,0.256,in,,,6720,psi,Cube/6in,,,275.63,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ60,18.25,in,8.176,in,0.261,in,,,6720,psi,Cube/6in,,,281.99,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ61,18.25,in,8.135,in,0.268,in,,,6720,psi,Cube/6in,,,255.53,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ62,18.25,in,9.117,in,0.289,in,,,6720,psi,Cube/6in,,,90.87,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ63,18.25,in,9.105,in,0.289,in,,,6720,psi,Cube/6in,,,75.39,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ64,18.25,in,9.132,in,0.283,in,,,6720,psi,Cube/6in,,,84.17,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ65,18.25,in,12.04,in,0.376,in,,,6720,psi,Cube/6in,,,291.78,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ66,18.25,in,12.022,in,0.377,in,,,6720,psi,Cube/6in,,,288.73,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,SZ67,18.25,in,12.047,in,0.375,in,,,6720,psi,Cube/6in,,,290.41,psi,,Concrete Age: 47 days
+Virdi and Dowling,1980,CC70,13.5,in,5.896,in,0.383,in,,,4457,psi,Cube/6in,,,381.74,psi,,
+Virdi and Dowling,1980,CC71,13.5,in,5.86,in,0.391,in,,,4457,psi,Cube/6in,,,370.53,psi,,
+Virdi and Dowling,1980,CC72,13.5,in,5.862,in,0.389,in,,,4457,psi,Cube/6in,,,359.86,psi,,
+Virdi and Dowling,1980,CC73,13.5,in,5.882,in,0.385,in,,,5405,psi,Cube/6in,,,293.4,psi,,
+Virdi and Dowling,1980,CC74,13.5,in,5.86,in,0.382,in,,,5405,psi,Cube/6in,,,306.57,psi,,
+Virdi and Dowling,1980,CC75,13.5,in,5.9,in,0.382,in,,,5405,psi,Cube/6in,,,310.82,psi,,
+Virdi and Dowling,1980,CC76,13.5,in,5.917,in,0.386,in,,,5133,psi,Cube/6in,,,308.29,psi,,
+Virdi and Dowling,1980,CC77,13.5,in,5.862,in,0.386,in,,,5133,psi,Cube/6in,,,329.86,psi,,
+Virdi and Dowling,1980,CC78,13.5,in,5.878,in,0.384,in,,,5133,psi,Cube/6in,,,310.07,psi,,
+Virdi and Dowling,1980,CC79,13.5,in,5.917,in,0.381,in,,,5133,psi,Cube/6in,,,267.95,psi,,
+Virdi and Dowling,1980,CC80,13.5,in,5.911,in,0.381,in,,,5133,psi,Cube/6in,,,320.88,psi,,
+Virdi and Dowling,1980,CC81,13.5,in,5.892,in,0.378,in,,,5133,psi,Cube/6in,,,216.71,psi,,
+Virdi and Dowling,1980,CC82,13.5,in,5.858,in,0.381,in,,,5133,psi,Cube/6in,,,260.84,psi,,
+Virdi and Dowling,1980,CC83,13.5,in,5.842,in,0.382,in,,,5133,psi,Cube/6in,,,223.58,psi,,
+Virdi and Dowling,1980,CC84,13.5,in,5.858,in,0.382,in,,,5133,psi,Cube/6in,,,217.58,psi,,
+Virdi and Dowling,1980,CC85,13.5,in,5.864,in,0.382,in,,,5133,psi,Cube/6in,,,168.5,psi,,
+Virdi and Dowling,1980,CC86,13.5,in,5.903,in,0.381,in,,,5133,psi,Cube/6in,,,213.83,psi,,
+Virdi and Dowling,1980,CC87,13.5,in,5.885,in,0.397,in,,,5133,psi,Cube/6in,,,241.16,psi,,
+Virdi and Dowling,1980,RD91,13.5,in,6.121,in,0.267,in,,,6713,psi,Cube/6in,,,285.57,psi,,
+Virdi and Dowling,1980,RD92,13.5,in,6.082,in,0.285,in,,,6713,psi,Cube/6in,,,312.77,psi,,
+Virdi and Dowling,1980,RD93,13.5,in,6.097,in,0.274,in,,,6713,psi,Cube/6in,,,362.19,psi,,
+Virdi and Dowling,1980,ST44,13.5,in,6.198,in,0.283,in,,,6713,psi,Cube/6in,,,60.63,psi,SurfaceTreatment,Inside of steel tube machined to smooth finish
+Virdi and Dowling,1980,ST45,13.5,in,6.17,in,0.283,in,,,6713,psi,Cube/6in,,,45.12,psi,SurfaceTreatment,Inside of steel tube machined to smooth finish
+Virdi and Dowling,1980,ST46,13.5,in,6.178,in,0.283,in,,,6713,psi,Cube/6in,,,38.51,psi,SurfaceTreatment,Inside of steel tube machined to smooth finish
+Virdi and Dowling,1980,PH47,13.5,in,6.11,in,0.26,in,,,6713,psi,Cube/6in,,,109.23,psi,SurfaceTreatment,Inside of steel tube lubriacted
+Virdi and Dowling,1980,PH48,13.5,in,6.119,in,0.27,in,,,6713,psi,Cube/6in,,,163.93,psi,SurfaceTreatment,Inside of steel tube lubriacted
+Virdi and Dowling,1980,PH49,13.5,in,6.116,in,0.27,in,,,6713,psi,Cube/6in,,,104.24,psi,SurfaceTreatment,Inside of steel tube lubriacted
+Shakir-Khalil,1993a,Y4a,202,mm,168.3,mm,5,mm,,,42,MPa,Cylinder/150mm,88.7,kN,,,,
+Shakir-Khalil,1993a,Y4b,203,mm,168.3,mm,5,mm,,,42,MPa,Cylinder/150mm,93.9,kN,,,,
+Shakir-Khalil,1993a,Y5a,399,mm,168.3,mm,5,mm,,,42,MPa,Cylinder/150mm,156.4,kN,,,,
+Shakir-Khalil,1993a,Y5b,400,mm,168.3,mm,5,mm,,,42,MPa,Cylinder/150mm,159.4,kN,,,,
+Shakir-Khalil,1993a,Y6a,600,mm,168.3,mm,5,mm,,,42,MPa,Cylinder/150mm,215.2,kN,,,,
+Shakir-Khalil,1993a,Y6b,599,mm,168.3,mm,5,mm,,,42,MPa,Cylinder/150mm,194.3,kN,,,,
+Shakir-Khalil,1993a,Y4ao,202,mm,168.3,mm,5,mm,,,44.3,MPa,Cylinder/150mm,18.8,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y4bo,203,mm,168.3,mm,5,mm,,,44.3,MPa,Cylinder/150mm,29.7,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y5ao,397,mm,168.3,mm,5,mm,,,44.3,MPa,Cylinder/150mm,95.7,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y5bo,400,mm,168.3,mm,5,mm,,,44.3,MPa,Cylinder/150mm,84.7,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y6ao,599,mm,168.3,mm,5,mm,,,44.3,MPa,Cylinder/150mm,106.6,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y6bo,600,mm,168.3,mm,5,mm,,,44.3,MPa,Cylinder/150mm,116.6,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993b,B1a,400,mm,168.3,mm,5,mm,,,38.6,MPa,Cylinder/150mm,86.7,kN,,,,
+Shakir-Khalil,1993b,B1b,404,mm,168.3,mm,5,mm,,,38.6,MPa,Cylinder/150mm,95.7,kN,,,,
+Shakir-Khalil,1993b,D1a,400,mm,168.3,mm,5,mm,,,40.1,MPa,Cylinder/150mm,830,kN,,,WithShearTabs,Bracket Failure
+Shakir-Khalil,1993b,D1b,398,mm,168.3,mm,5,mm,,,40.1,MPa,Cylinder/150mm,810,kN,,,WithShearTabs,Bracket Failure
+Shakir-Khalil,1993b,F1a,401,mm,168.3,mm,5,mm,,,37.1,MPa,Cylinder/150mm,947,kN,,,WithShearTabs,Bracket Failure
+Shakir-Khalil,1993b,F1b,396,mm,168.3,mm,5,mm,,,40.8,MPa,Cylinder/150mm,971,kN,,,WithShearTabs,Bracket Failure
+Shakir-Khalil,1993b,H1,403,mm,168.3,mm,5,mm,,,39.6,MPa,Cylinder/150mm,187,kN,,,,
+Shakir-Khalil,1993b,H2,401,mm,168.3,mm,5,mm,,,39.6,MPa,Cylinder/150mm,765,kN,,,WithShearTabs,"Slip Failure, no peak reached"
+Shakir-Khalil,1993b,H3,403,mm,168.3,mm,5,mm,,,39.6,MPa,Cylinder/150mm,743,kN,,,WithShearTabs,"Slip Failure, no peak reached"
+Shakir-Khalil,1993b,H4,400,mm,168.3,mm,5,mm,,,39.6,MPa,Cylinder/150mm,269,kN,,,WithShearTabs,Slip Failure
+Roeder et al.,1999,I-1,758,mm,274.52,mm,13.46,mm,,,29.3,MPa,Cylinder/150mm,6.2,kN,,,,moderate shrinkage concrete
+Roeder et al.,1999,I-2,758,mm,274.52,mm,13.46,mm,,,29.3,MPa,Cylinder/150mm,15.6,kN,,,EccentricLoad,moderate shrinkage concrete
+Roeder et al.,1999,I-3,1064,mm,355.62,mm,7.11,mm,,,27.9,MPa,Cylinder/150mm,36,kN,,,,moderate shrinkage concrete
+Roeder et al.,1999,I-4,1064,mm,355.62,mm,7.11,mm,,,27.9,MPa,Cylinder/150mm,42.7,kN,,,,moderate shrinkage concrete
+Roeder et al.,1999,I-5,1775,mm,355.62,mm,7.11,mm,,,37.3,MPa,Cylinder/150mm,247.9,kN,,,,moderate shrinkage concrete
+Roeder et al.,1999,I-6,1775,mm,355.62,mm,7.11,mm,,,28.6,MPa,Cylinder/150mm,82.8,kN,,,,moderate shrinkage concrete
+Roeder et al.,1999,I-7,1927,mm,609.58,mm,5.59,mm,,,29.3,MPa,Cylinder/150mm,192.2,kN,,,,moderate shrinkage concrete
+Roeder et al.,1999,I-8,1927,mm,609.58,mm,5.59,mm,,,28.6,MPa,Cylinder/150mm,236.7,kN,,,EccentricLoad,moderate shrinkage concrete
+Roeder et al.,1999,II-1,810,mm,274.52,mm,13.46,mm,,,47.2,MPa,Cylinder/150mm,486.4,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-2,810,mm,274.52,mm,13.46,mm,,,46.6,MPa,Cylinder/150mm,494.8,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-3,810,mm,274.52,mm,13.46,mm,,,46.6,MPa,Cylinder/150mm,488.2,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-4,1495,mm,274.52,mm,13.46,mm,,,43.9,MPa,Cylinder/150mm,371.6,kN,,,CyclicLoad,low shrinkage concrete
+Roeder et al.,1999,II-5,1064,mm,355.62,mm,7.11,mm,,,47.3,MPa,Cylinder/150mm,315.5,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-6,1064,mm,355.62,mm,7.11,mm,,,47.3,MPa,Cylinder/150mm,404.1,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-7,1775,mm,355.62,mm,7.11,mm,,,43.9,MPa,Cylinder/150mm,332,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-8,1775,mm,355.62,mm,7.11,mm,,,43.9,MPa,Cylinder/150mm,355.6,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-9,1927,mm,609.58,mm,5.59,mm,,,44.9,MPa,Cylinder/150mm,523.3,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-10,1927,mm,609.58,mm,5.59,mm,,,47.2,MPa,Cylinder/150mm,635.9,kN,,,,low shrinkage concrete
+Roeder et al.,1999,II-11,1927,mm,609.58,mm,5.59,mm,,,46.2,MPa,Cylinder/150mm,332.4,kN,,,,"dented tube, low shrinkage concrete"
+Roeder et al.,1999,II-12,1927,mm,609.58,mm,5.59,mm,,,46.2,MPa,Cylinder/150mm,332.9,kN,,,,"dented tube, low shrinkage concrete"
+Xu et al.,2009,SI-a,500,mm,155.5,mm,2.75,mm,,,49,MPa,Cube/150mm,325.2,kN,,,ExpansiveConcrete,least expansive
+Xu et al.,2009,SI-b,500,mm,155.5,mm,2.75,mm,,,48.6,MPa,Cube/150mm,353.4,kN,,,ExpansiveConcrete,moderately expansive
+Xu et al.,2009,SI-c,500,mm,155.5,mm,2.75,mm,,,46.8,MPa,Cube/150mm,393.5,kN,,,ExpansiveConcrete,very expansive
+Xu et al.,2009,SI-o,500,mm,155.5,mm,2.75,mm,,,47,MPa,Cube/150mm,141.4,kN,,,,No expansive concrete
+Xu et al.,2009,SII-a,500,mm,157,mm,3.5,mm,,,49,MPa,Cube/150mm,339.3,kN,,,ExpansiveConcrete,least expansive
+Xu et al.,2009,SII-b,500,mm,157,mm,3.5,mm,,,48.6,MPa,Cube/150mm,377,kN,,,ExpansiveConcrete,moderately expansive
+Xu et al.,2009,SII-c,500,mm,157,mm,3.5,mm,,,46.8,MPa,Cube/150mm,412.3,kN,,,ExpansiveConcrete,very expansive
+Xu et al.,2009,SII-o,500,mm,157,mm,3.5,mm,,,47,MPa,Cube/150mm,153.2,kN,,,,No expansive concrete
+Xu et al.,2009,SIII-a,500,mm,159,mm,4.5,mm,,,49,MPa,Cube/150mm,367.6,kN,,,ExpansiveConcrete,least expansive
+Xu et al.,2009,SIII-b,500,mm,159,mm,4.5,mm,,,48.6,MPa,Cube/150mm,400.6,kN,,,ExpansiveConcrete,moderately expansive
+Xu et al.,2009,SIII-c,500,mm,159,mm,4.5,mm,,,46.8,MPa,Cube/150mm,433.5,kN,,,ExpansiveConcrete,very expansive
+Xu et al.,2009,SIII-o,500,mm,159,mm,4.5,mm,,,47,MPa,Cube/150mm,157.9,kN,,,,No expansive concrete
+Xu et al.,2009,LI,800,mm,155.5,mm,2.75,mm,,,46.8,MPa,Cube/150mm,723.8,kN,,,ExpansiveConcrete,"mix c, variable length"
+Xu et al.,2009,LII,600,mm,155.5,mm,2.75,mm,,,46.8,MPa,Cube/150mm,517.4,kN,,,ExpansiveConcrete,"mix c, variable length"
+Xu et al.,2009,LIII,550,mm,155.5,mm,2.75,mm,,,46.8,MPa,Cube/150mm,482.1,kN,,,ExpansiveConcrete,"mix c, variable length"
+Xu et al.,2009,LIV,300,mm,155.5,mm,2.75,mm,,,46.8,MPa,Cube/150mm,199.3,kN,,,ExpansiveConcrete,"mix c, variable length"
+Xu et al.,2009,LV,200,mm,155.5,mm,2.75,mm,,,46.8,MPa,Cube/150mm,118.8,kN,,,ExpansiveConcrete,"mix c, variable length"
+Xu et al.,2009,F-d,600,mm,157,mm,3.5,mm,,,33.2,MPa,Cube/150mm,381.7,kN,,,ExpansiveConcrete,"mix d, variable f'c"
+Xu et al.,2009,F-e,600,mm,157,mm,3.5,mm,,,38.5,MPa,Cube/150mm,418.5,kN,,,ExpansiveConcrete,"mix e, variable f'c"
+Xu et al.,2009,F-f,600,mm,157,mm,3.5,mm,,,53,MPa,Cube/150mm,452.4,kN,,,ExpansiveConcrete,"mix f, variable f'c"
+Aly et al.,2010,A1,400,mm,114.3,mm,3.2,mm,350,MPa,71,MPa,Cylinder/100mm,136,kN,,,,
+Aly et al.,2010,B1,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,160,kN,,,,
+Aly et al.,2010,C1,400,mm,114.3,mm,3.2,mm,350,MPa,69,MPa,Cylinder/100mm,124,kN,,,,
+Aly et al.,2010,D1,400,mm,114.3,mm,3.2,mm,350,MPa,64,MPa,Cylinder/100mm,160,kN,,,,
+Aly et al.,2010,E1,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,169,kN,,,,
+Aly et al.,2010,F1,400,mm,114.3,mm,3.2,mm,350,MPa,81,MPa,Cylinder/100mm,83,kN,,,,
+Aly et al.,2010,G1,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,139,kN,,,,
+Aly et al.,2010,A2,400,mm,114.3,mm,3.2,mm,350,MPa,74,MPa,Cylinder/100mm,,,0.81,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,B2,400,mm,114.3,mm,3.2,mm,350,MPa,48,MPa,Cylinder/100mm,,,0.83,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,C2,400,mm,114.3,mm,3.2,mm,350,MPa,69,MPa,Cylinder/100mm,,,0.64,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,D2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.93,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,E2,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,,,0.95,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,F2,400,mm,114.3,mm,3.2,mm,350,MPa,91,MPa,Cylinder/100mm,,,0.35,MPa,CyclicLoad,Variable repeated load (VRL)
+Aly et al.,2010,G2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.7,MPa,CyclicLoad,Variable repeated load (VRL)

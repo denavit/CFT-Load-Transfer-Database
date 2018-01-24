@@ -1,37 +1,37 @@
-author,year,specimen,L,L_units,H,H_units,B,B_units,t,t_units,Fy,Fy_units,fc,fc_units,Vmax,Vmax_units,Fin,Fin_units,tags,notes
-Shakir-Khalil,1993a,X1a,394,mm,120,mm,80,mm,5,mm,,,38.8,MPa,188.5,kN,,,,
-Shakir-Khalil,1993a,X1b,396,mm,120,mm,80,mm,5,mm,,,38.8,MPa,138,kN,,,,
-Shakir-Khalil,1993a,X1c,395,mm,120,mm,80,mm,5,mm,,,38.8,MPa,102.8,kN,,,CyclicLoad,cyclic
-Shakir-Khalil,1993a,X1d,397,mm,120,mm,80,mm,5,mm,,,38.8,MPa,114.1,kN,,,CyclicLoad,cyclic
-Shakir-Khalil,1993a,Y1a,204,mm,150,mm,150,mm,5,mm,,,41,MPa,67.8,kN,,,,
-Shakir-Khalil,1993a,Y1b,204,mm,150,mm,150,mm,5,mm,,,41,MPa,66.6,kN,,,,
-Shakir-Khalil,1993a,Y2a,398,mm,150,mm,150,mm,5,mm,,,41,MPa,76.7,kN,,,,
-Shakir-Khalil,1993a,Y2b,397,mm,150,mm,150,mm,5,mm,,,41,MPa,74.2,kN,,,,
-Shakir-Khalil,1993a,Y3a,600,mm,150,mm,150,mm,5,mm,,,41,MPa,123.1,kN,,,,
-Shakir-Khalil,1993a,Y3b,600,mm,150,mm,150,mm,5,mm,,,41,MPa,146.5,kN,,,,
-Shakir-Khalil,1993a,Y1ao,204,mm,150,mm,150,mm,5,mm,,,39.2,MPa,21.9,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y1bo,204,mm,150,mm,150,mm,5,mm,,,39.2,MPa,25.4,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y2ao,398,mm,150,mm,150,mm,5,mm,,,39.2,MPa,52.3,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y2bo,397,mm,150,mm,150,mm,5,mm,,,39.2,MPa,65.8,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y3ao,600,mm,150,mm,150,mm,5,mm,,,39.2,MPa,56.8,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993a,Y3bo,600,mm,150,mm,150,mm,5,mm,,,39.2,MPa,71.7,kN,,,SurfaceTreatment,steel-concrete interface oiled
-Shakir-Khalil,1993b,A1a,400,mm,150,mm,150,mm,5,mm,,,36,MPa,45.3,kN,,,,
-Shakir-Khalil,1993b,A1b,398,mm,150,mm,150,mm,5,mm,,,36,MPa,45.8,kN,,,,
-Shakir-Khalil,1993b,C1a,397,mm,150,mm,150,mm,5,mm,,,40.1,MPa,169.4,kN,,,WithShearTabs,Slip Failure
-Shakir-Khalil,1993b,C1b,397,mm,150,mm,150,mm,5,mm,,,40.1,MPa,229.2,kN,,,WithShearTabs,Slip Failure
-Shakir-Khalil,1993b,C2a,400,mm,150,mm,150,mm,5,mm,,,40.1,MPa,229.2,kN,,,WithShearTabs,Slip Failure
-Shakir-Khalil,1993b,C2b,399,mm,150,mm,150,mm,5,mm,,,40.1,MPa,236.1,kN,,,WithShearTabs,Slip Failure
-Shakir-Khalil,1993b,E1a,399,mm,200,mm,200,mm,6.3,mm,,,42.5,MPa,167,kN,,,WithShearTabs,Slip Failure
-Shakir-Khalil,1993b,E1b,400,mm,200,mm,200,mm,6.3,mm,,,42.5,MPa,80,kN,,,WithShearTabs,Slip Failure
-Shakir-Khalil,1993b,G1,400,mm,150,mm,150,mm,5,mm,,,39.6,MPa,94,kN,,,,
-Shakir-Khalil,1993b,G2,402,mm,150,mm,150,mm,5,mm,,,39.6,MPa,199,kN,,,WithShearTabs,"Slip Failure, no peak reached"
-Shakir-Khalil,1993b,G3,405,mm,150,mm,150,mm,5,mm,,,39.6,MPa,209,kN,,,WithShearTabs,"Slip Failure, no peak reached"
-Shakir-Khalil,1993b,G4,402,mm,150,mm,150,mm,5,mm,,,39.6,MPa,104,kN,,,WithShearTabs,Slip Failure
-Parsley et al.,2000,CFT4,48,in,8,in,8,in,0.229,in,48,ksi,6550,psi,61,kips,,,,
-Parsley et al.,2000,CFT3,48,in,8,in,8,in,0.228,in,48,ksi,6550,psi,56,kips,,,,
-Parsley et al.,2000,CFT2,48,in,8,in,8,in,0.228,in,48,ksi,6550,psi,98,kips,,,WithShearTabs,
-Parsley et al.,2000,CFT5,48,in,8,in,8,in,0.228,in,48,ksi,6550,psi,101,kips,,,WithShearTabs,
-Parsley et al.,2000,CFT7,60,in,10,in,10,in,0.234,in,48,ksi,5860,psi,61,kips,,,,
-Parsley et al.,2000,CFT1,60,in,10,in,10,in,0.234,in,48,ksi,5860,psi,57,kips,,,,
-Parsley et al.,2000,CFT8,58.5,in,10,in,10,in,0.232,in,48,ksi,5860,psi,67,kips,,,WithShearTabs,
-Parsley et al.,2000,CFT6,58.5,in,10,in,10,in,0.234,in,48,ksi,5860,psi,70,kips,,,WithShearTabs,
+Author,Year,Specimen,L,L_units,H,H_units,B,B_units,t,t_units,SteelTubeType,Fy,Fy_units,fc,fc_units,fc_type,Vmax,Vmax_units,Fin,Fin_units,Tags,Notes
+Shakir-Khalil,1993a,X1a,394,mm,120,mm,80,mm,5,mm,ColdFormed,,,38.8,MPa,Cylinder/150mm,188.5,kN,,,,
+Shakir-Khalil,1993a,X1b,396,mm,120,mm,80,mm,5,mm,ColdFormed,,,38.8,MPa,Cylinder/150mm,138,kN,,,,
+Shakir-Khalil,1993a,X1c,395,mm,120,mm,80,mm,5,mm,ColdFormed,,,38.8,MPa,Cylinder/150mm,102.8,kN,,,CyclicLoad,cyclic
+Shakir-Khalil,1993a,X1d,397,mm,120,mm,80,mm,5,mm,ColdFormed,,,38.8,MPa,Cylinder/150mm,114.1,kN,,,CyclicLoad,cyclic
+Shakir-Khalil,1993a,Y1a,204,mm,150,mm,150,mm,5,mm,ColdFormed,,,41,MPa,Cylinder/150mm,67.8,kN,,,,
+Shakir-Khalil,1993a,Y1b,204,mm,150,mm,150,mm,5,mm,ColdFormed,,,41,MPa,Cylinder/150mm,66.6,kN,,,,
+Shakir-Khalil,1993a,Y2a,398,mm,150,mm,150,mm,5,mm,ColdFormed,,,41,MPa,Cylinder/150mm,76.7,kN,,,,
+Shakir-Khalil,1993a,Y2b,397,mm,150,mm,150,mm,5,mm,ColdFormed,,,41,MPa,Cylinder/150mm,74.2,kN,,,,
+Shakir-Khalil,1993a,Y3a,600,mm,150,mm,150,mm,5,mm,ColdFormed,,,41,MPa,Cylinder/150mm,123.1,kN,,,,
+Shakir-Khalil,1993a,Y3b,600,mm,150,mm,150,mm,5,mm,ColdFormed,,,41,MPa,Cylinder/150mm,146.5,kN,,,,
+Shakir-Khalil,1993a,Y1ao,204,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.2,MPa,Cylinder/150mm,21.9,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y1bo,204,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.2,MPa,Cylinder/150mm,25.4,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y2ao,398,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.2,MPa,Cylinder/150mm,52.3,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y2bo,397,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.2,MPa,Cylinder/150mm,65.8,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y3ao,600,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.2,MPa,Cylinder/150mm,56.8,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993a,Y3bo,600,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.2,MPa,Cylinder/150mm,71.7,kN,,,SurfaceTreatment,steel-concrete interface oiled
+Shakir-Khalil,1993b,A1a,400,mm,150,mm,150,mm,5,mm,ColdFormed,,,36,MPa,Cylinder/150mm,45.3,kN,,,,
+Shakir-Khalil,1993b,A1b,398,mm,150,mm,150,mm,5,mm,ColdFormed,,,36,MPa,Cylinder/150mm,45.8,kN,,,,
+Shakir-Khalil,1993b,C1a,397,mm,150,mm,150,mm,5,mm,ColdFormed,,,40.1,MPa,Cylinder/150mm,169.4,kN,,,WithShearTabs,Slip Failure
+Shakir-Khalil,1993b,C1b,397,mm,150,mm,150,mm,5,mm,ColdFormed,,,40.1,MPa,Cylinder/150mm,229.2,kN,,,WithShearTabs,Slip Failure
+Shakir-Khalil,1993b,C2a,400,mm,150,mm,150,mm,5,mm,ColdFormed,,,40.1,MPa,Cylinder/150mm,229.2,kN,,,WithShearTabs,Slip Failure
+Shakir-Khalil,1993b,C2b,399,mm,150,mm,150,mm,5,mm,ColdFormed,,,40.1,MPa,Cylinder/150mm,236.1,kN,,,WithShearTabs,Slip Failure
+Shakir-Khalil,1993b,E1a,399,mm,200,mm,200,mm,6.3,mm,ColdFormed,,,42.5,MPa,Cylinder/150mm,167,kN,,,WithShearTabs,Slip Failure
+Shakir-Khalil,1993b,E1b,400,mm,200,mm,200,mm,6.3,mm,ColdFormed,,,42.5,MPa,Cylinder/150mm,80,kN,,,WithShearTabs,Slip Failure
+Shakir-Khalil,1993b,G1,400,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.6,MPa,Cylinder/150mm,94,kN,,,,
+Shakir-Khalil,1993b,G2,402,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.6,MPa,Cylinder/150mm,199,kN,,,WithShearTabs,"Slip Failure, no peak reached"
+Shakir-Khalil,1993b,G3,405,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.6,MPa,Cylinder/150mm,209,kN,,,WithShearTabs,"Slip Failure, no peak reached"
+Shakir-Khalil,1993b,G4,402,mm,150,mm,150,mm,5,mm,ColdFormed,,,39.6,MPa,Cylinder/150mm,110,kN,,,WithShearTabs,Slip Failure
+Parsley et al.,2000,CFT4,48,in,8,in,8,in,0.229,in,ColdFormed,48,ksi,6550,psi,Cylinder,61,kips,,,,
+Parsley et al.,2000,CFT3,48,in,8,in,8,in,0.228,in,ColdFormed,48,ksi,6550,psi,Cylinder,56,kips,,,,
+Parsley et al.,2000,CFT2,48,in,8,in,8,in,0.228,in,ColdFormed,48,ksi,6550,psi,Cylinder,98,kips,,,WithShearTabs,
+Parsley et al.,2000,CFT5,48,in,8,in,8,in,0.228,in,ColdFormed,48,ksi,6550,psi,Cylinder,101,kips,,,WithShearTabs,
+Parsley et al.,2000,CFT7,60,in,10,in,10,in,0.234,in,ColdFormed,48,ksi,5860,psi,Cylinder,61,kips,,,,
+Parsley et al.,2000,CFT1,60,in,10,in,10,in,0.234,in,ColdFormed,48,ksi,5860,psi,Cylinder,57,kips,,,,
+Parsley et al.,2000,CFT8,58.5,in,10,in,10,in,0.232,in,ColdFormed,48,ksi,5860,psi,Cylinder,67,kips,,,WithShearTabs,
+Parsley et al.,2000,CFT6,58.5,in,10,in,10,in,0.234,in,ColdFormed,48,ksi,5860,psi,Cylinder,70,kips,,,WithShearTabs,
