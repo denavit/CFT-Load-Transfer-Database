@@ -1,0 +1,242 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+Concrete-Filled Steel Tube (CFT) Load Transfer Database
+</title>
+<style>
+html {
+  display: table;
+  margin: auto;
+}
+body {
+  max-width: 1000px;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: Arial, Verdana, Sans-serif;
+}
+pre {
+  display: inline;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse; 
+  table-layout: fixed;
+}
+#heading {
+  text-align: center;
+}
+thead { 
+  border-bottom: 1px solid #000; 
+}
+tbody { 
+  border-bottom: 1px solid #000; 
+}
+tbody.sum { 
+  border-bottom: none; 
+}
+th {
+  width: 120px;
+}
+td {
+  width: 120px;
+  text-align: center;
+}
+</style>
+</head>
+
+<body>
+<div id="heading">
+<h1 id="topofpage">Concrete-Filled Steel Tube (CFT) Load Transfer Database</h1>
+<nav>
+    <a href="#scope">Scope</a> - 
+    <a href="#fields">Fields</a> - 
+    <a href="#specimennotes">Specimen Notes</a> - 
+    <a href="#additionalstudies">Additional Studies</a> - 
+    <a href="#references">References</a>
+</nav>
+</div>
+<br>
+<p>This page describes a database of experimental push-out tests on circular and rectangular concrete-filled steel tubes. The database is primarily intended to be used in the validation of analytical models and design procedures. The database is maintained by Mark Denavit's research group at the University of Tennessee, Knoxville. The database and associated MATLAB files are available for download at github (<a href="https://github.com/denavit/CFT-Load-Transfer-Database">browse</a> - <a href="https://github.com/denavit/CFT-Load-Transfer-Database/archive/master.zip">download zip</a>). Please contact <a href='mai&#108;&#116;o&#58;&#109;%&#54;4%65n%61vi%7&#52;%40utk&#46;edu'>Mark Denavit</a> with any comments, corrections, additions, suggestions, or if you are interested in the original reports.</p>
+
+<p>Additional information about the database can be found in this reference: </p>
+<ul>
+    <li>Zhang, J., Denavit, M. D., Hajjar, J. F., and Lu, X. (2012). "Bond Behavior of Concrete-Filled Steel Tube (CFT) Structures," Engineering Journal, AISC, 49(4), 169-185.</li>
+</ul>
+
+<h2 id="scope">Scope</h2>
+<p>The data is separated based on cross section type:</p>
+<ul>
+  <li><pre>CCFT</pre> - circular concrete-filled steel tubes</li>
+  <li><pre>RCFT</pre> - rectangular concrete-filled steel tubes</li>
+</ul>
+
+To be included in the database, each specimen must 1) have obtained natural bond strength in a physical experiment; 2) be described in a published work (preferably a peer-reviewed journal publication); and 3) be capable of being accurately described by the fields in this database. The following were excluded:
+<ul>
+  <li>Specimens with mechanical connection between the steel tube and concrete core</li>
+</ul>
+
+<p>The current count of specimens in the database is:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Count</th> 
+    </tr>
+  </thead>
+  <tbody class="each">
+    <tr>
+      <td><pre>CCFT</pre></td>
+      <td>164 specimens</td> 
+    </tr>
+    <tr>
+      <td><pre>RCFT</pre></td>
+      <td>36 specimens</td> 
+    </tr>
+  </tbody>
+  <tbody class="sum">
+    <tr>
+      <td>Total</td>
+      <td>200 specimens</td> 
+    </tr>  
+  </tbody>
+</table>
+
+
+<h2 id="fields">Fields</h2>
+<h3>General Information</h3>
+<ul>
+  <li><pre>Author</pre> - Author of the original reference</li>
+  <li><pre>Year</pre> - Publication year of the original reference</li>
+  <li><pre>Specimen</pre> - Name of the specimen given in the original reference</li>
+  <li><pre>Tags</pre> - Extra information about the tests. Currently used tags are:
+    <ul>
+      <li><pre>CyclicLoad</pre></li>
+      <li><pre>EccentricLoad</pre></li>
+      <li><pre>ExpansiveConcrete</pre></li>
+      <li><pre>SurfaceTreatment</pre> - indicates that the interface between steel tube and concrete was greased, oiled, or otherwise altered</li>
+      <li><pre>WithShearTabs</pre></li>
+    </ul>
+  </li>
+  <li><pre>Notes</pre> - Miscellaneous additional information</li>
+</ul>
+
+<h3>Section Data</h3>
+<ul>
+  <li><pre>Fy, Fy_units</pre> - Measured yield stress of the steel shape and associated stress units</li>
+  <li><pre>fc, fc_type, fc_units</pre> - Measured concrete compressive strength, test type, and associated stress units. Test types are:
+    <ul>
+      <li><pre>Cylinder</pre></li>
+      <li><pre>Cube</pre></li>
+    </ul>
+  </li>
+</ul>  
+  
+<h4>Section Data Specific to CCFT Members</h4>
+<ul>
+  <li><pre>D, D_units</pre> - Measured outside diameter of the steel tube and associated length units</li>
+  <li><pre>t, t_units</pre> - Measured thickness of the steel tube and associated length units </li>
+</ul>  
+  
+<h4>Section Data Specific to RCFT Members</h4>
+<ul>
+  <li><pre>B, B_units</pre> - Measured width of the steel tube and associated length units</li>
+  <li><pre>H, H_units</pre> - Measured height of the steel tube and associated length units</li>
+  <li><pre>t, t_units</pre> - Measured thickness of the steel tube and associated length units</li>
+  <li><pre>SteelTubeType</pre> - Type of steel tube used for the specimen. Tube types are:
+    <ul>
+      <li><pre>ColdFormed</pre></li>
+      <li><pre>WeldedBox</pre></li>
+    </ul>  
+  </li>
+</ul>
+    
+<h3>Member Data</h3>
+<ul>
+  <li><pre>L, L_units</pre> - Measured length of the interface between the steel tube and concrete core</li>
+  <li><pre>Vmax, Vmax_units</pre> - Maximum load from the experiment and associated force units (sometimes not reported)</li>   
+  <li><pre>Fin, Fin_units</pre> - Maximum bond stress from the experiment and associated stress units (sometimes not reported)</li>
+</ul>    
+
+
+<h2 id="specimennotes">Specimen Notes</h2>
+<ul>
+  <li><b>Virdi and Dowling 1980</b> - <i>88 CCFT</i></li>
+  
+  <li><b>Shakir-Khalil 1993a</b> - <i>28 Total (12 CCFT, 16 RCFT)</i></li>
+  
+  <li><b>Shakir-Khalil 1993b</b> - <i>22 Total (10 CCFT, 12 RCFT)</i></li>
+  
+  <li><b>Roeder et al. 1999</b> - <i>20 CCFT</i></li>
+  
+  <li>
+    <b>Parsley et al. 2000</b> - <i>8 RCFT</i>
+    <ul>
+      <li>Results also reported in Parsley (1998).</li>
+    </ul>
+  </li>  
+
+  <li><b>Xu et al. 2009</b> - <i>20 CCFT</i></li>
+
+  <li><b>Aly et al. 2010</b> - <i>14 CCFT</i></li>  
+</ul>
+
+
+<h2 id="additionalstudies">Additional Studies Relevent to CFT Load Transfer</h2>
+<ul>
+  <li><b>Dunberry et al. 1987</b> - <i>Connection tests</i></li>
+  <li><b>Johansson 2003</b> - <i>Computational studies</i></li>
+  <li><b>Morishita 1979a and 1979b</b> - <i>Push-off tests</i></li>
+  <li><b>Roeder et al. 2009</b></li>
+  <li><b>Shakir-Khalil 1993c, 1993d, 1994a, and 1994b</b> - <i>Connection tests</i></li>
+  <li><b>Shakir-Khalil and Al-Rawdan 1995</b> - <i>Connection tests</i></li>
+  <li><b>Tomii 1980a and 1980b</b> - <i>Push-off tests</i></li>
+  <li><b>Yin and Lu 2010</b></li>
+</ul>
+
+
+<h2 id="references">References</h2>
+
+<ul id="id01">
+  <li>Aly, T., Elchalakani, M., Thayalan, P., and Patnaikuni, I. (2010). “Incremental Collapse Threshold for Pushout Resistance of Circular Concrete Filled Steel Tubular Columns.” Journal of Constructional Steel Research, 66(1), 11–18. <doi>10.1016/j.jcsr.2009.08.002</doi></li>
+  <li>Dunberry, E., LeBlanc, D., and Redwood, R. G. (1987). “Cross-Section Strength of Concrete-Filled HSS Columns at Simple Beam Connections.” Canadian Journal of Civil Engineering, 14(2), 408–417. <doi>10.1139/l87-059</doi></li>
+  <li>Johansson, M. (2003). “Composite Action in Connection Regions of Concrete-Filled Steel Tube Columns.” Steel & Composite Structures, 3(1), 47–64. <doi>10.12989/scs.2003.3.1.047</doi></li>
+  <li>Morishita, Y., Tomii, M., and Yoshimura, K. (1979a). “Experimental Studies on Bond Strength in Concrete Filled Circular Steel Tubular Columns Subjected to Axial Loads.” Transactions of Japan Concrete Institute, 1, 351–358.</li>
+  <li>Morishita, Y., Tomii, M., and Yoshimura, K. (1979b). “Experimental Studies on Bond Strength in Concrete Filled Square and Octagonal Steel Tubular Columns Subjected to Axial Loads.” Transactions of Japan Concrete Institute, 1, 359–366.</li>
+  <li>Parsley, M. A. (1998). “Push-Out Behavior of Concrete-Filled Steel Tubes.” M.S. Thesis, The University of Texas at Austin, Austin, Texas.</li>
+  <li>Parsley, M. A., Yura, J. A., and Jirsa, J. O. (2000). “Push-Out Behavior of Rectangular Concrete-Filled Steel Tubes.” ACI SP-196 Composite and Hybrid Systems, R. S. Aboutaha and J. M. Bracci, eds.</li>
+  <li>Roeder, C. W., Cameron, B., and Brown, C. B. (1999). “Composite Action in Concrete Filled Tubes.” Journal of Structural Engineering, 125(5), 477–484. <doi>10.1061/(ASCE)0733-9445(1999)125:5(477)</doi></li>
+  <li>Roeder, C. W., Lehman, D. E., and Thody, R. (2009). “Composite Action in CFT Components and Connections.” Engineering Journal, AISC, 46(4), 229–242.</li>
+  <li>Shakir-Khalil, H. (1993a). “Pushout Strength of Concrete-Filled Steel Hollow Sections.” The Structural Engineer, 71(13), 230–233.</li>
+  <li>Shakir-Khalil, H. (1993b). “Resistance of Concrete-Filled Steel Tubes to Pushout Forces.” The Structural Engineer, 71(13), 234–243.</li>
+  <li>Shakir-Khalil, H. (1993c). “Full-Scale Tests on Composite Connections.” Composite Construction in Steel and Concrete II, American Society of Civil Engineers, Trout Lodge, Potosi, Missouri, USA, 634–649.</li>
+  <li>Shakir-Khalil, H. (1993d). “Connection of Steel Beams to Concrete-Filled Tubes.” Prodeedings of the 5th International Symposium on Tubular Structures, Nottingham, England, UK, 195–203.</li>
+  <li>Shakir-Khalil, H. (1994a). “Finplate Connections to Concrete-Filled Tubes.” 4th International Conference on Steel-Concrete Composite Structures, Istanbul, Turkey, 181–185.</li>
+  <li>Shakir-Khalil, H. (1994b). “Beam Connections to Concrete-Filled Tubes.” 6th International Symposium on Tubular Structures, Melbourne, Australia, 357–364.</li>
+  <li>Shakir-Khalil, H., and Al-Rawdan, A. (1995). “Behavior of Concrete-Filled Tubular Edge Columns.” 3rd International Conference on Steel and Aluminum Structures, Istanbul, Turkey, 515–522.</li>  
+  <li>Tomii, M., Yoshimura, K., and Morishita, Y. (1980a). “A Method of Improving Bond Strength between Steel Tube and Concrete Core Cast in Circular Steel Tubular Columns.” Transactions of the Japan Concrete Institute, 2, 319–326.</li>
+  <li>Tomii, M., Yoshimura, K., and Morishita, Y. (1980b). “A Method of Improving Bond Strength between Steel Tube and Concrete Core Cast in Square and Octagonal Steel Tubular Columns.” Transactions of the Japan Concrete Institute, 2, 327–334.</li>
+  <li>Virdi, K. S., and Dowling, P. J. (1980). “Bond Strength in Concrete Filled Steel Tubes.” IABSE Periodical, 125–139.</li>  
+  <li>Xu, C., Chengkui, H., Decheng, J., and Yuancheng, S. (2009). “Push-Out Test of Pre-Stressing Concrete Filled Circular Steel Tube Columns by Means of Expansive Cement.” Construction and Building Materials, 23(1), 491–497. <doi>10.1016/j.conbuildmat.2007.10.021</doi></li>
+  <li>Yin, X., and Lu, X. (2010). “Study on Push-Out Test and Bond Stress-Slip Relationship of Circular Concrete Filled Steel Tube.” Steel and Composite Structures, 10(4), 317–329.
+  <li>Zhang, J., Denavit, M. D., Hajjar, J. F., and Lu, X. (2012). "Bond Behavior of Concrete-Filled Steel Tube (CFT) Structures," Engineering Journal, AISC, 49(4), 169-185. (Errata: 50(3), 201-203)</li>
+</ul>
+
+<script type="text/javascript">
+  var arr = new Array();  
+  arr = document.getElementsByTagName("doi");  
+  for (var i = 0; i < arr.length; i++) {
+      doi = arr.item(i).innerHTML
+      arr.item(i).innerHTML = "(<a href=http://dx.doi.org/" + doi + ">doi:" + doi + "</a>)"
+  }
+</script>
+
+</body>
+</html>
+
+
+
+
+
