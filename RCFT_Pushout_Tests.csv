@@ -36,3 +36,9 @@ Parsley et al.,2000,CFT1,60,in,10,in,10,in,0.234,in,ColdFormed,48,ksi,5860,psi,C
 Parsley et al.,2000,CFT8,58.5,in,10,in,10,in,0.232,in,ColdFormed,48,ksi,5860,psi,Cylinder,67,kips,,,WithShearTabs,
 Parsley et al.,2000,CFT6,58.5,in,10,in,10,in,0.234,in,ColdFormed,48,ksi,5860,psi,Cylinder,70,kips,,,WithShearTabs,
 De Nardin and El Debs,2007,CFT-S,375,mm,200,mm,200,mm,6.3,mm,ColdFormed,25.33,kN/cm^2,4.8,kN/cm^2,,63.1,kN,,,,
+Qu et al.,2013,CP1,715,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,39,MPa,Cube/100mm,,,0.305,MPa,,Data taken from first half cycle
+Qu et al.,2013,CP2,733,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,39,MPa,Cube/100mm,,,0.271,MPa,,Data taken from first half cycle
+Qu et al.,2013,CP3,726,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,39,MPa,Cube/100mm,,,0.282,MPa,,Data taken from first half cycle
+Qu et al.,2013,CP4,718,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,39,MPa,Cube/100mm,,,0.259,MPa,,Data taken from first half cycle
+Qu et al.,2013,CP5,713,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,39,MPa,Cube/100mm,,,0.106,MPa,SurfaceTreatment,Data taken from first half cycle
+Qu et al.,2013,CP6,843,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,49,MPa,Cube/100mm,,,0.319,MPa,,Data taken from first half cycle
