@@ -42,3 +42,21 @@ Qu et al.,2013,CP3,726,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,39,MPa,Cube
 Qu et al.,2013,CP4,718,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,39,MPa,Cube/100mm,,,0.259,MPa,,Data taken from first half cycle
 Qu et al.,2013,CP5,713,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,39,MPa,Cube/100mm,,,0.106,MPa,SurfaceTreatment,Data taken from first half cycle
 Qu et al.,2013,CP6,843,mm,300,mm,200,mm,5.67,mm,ColdFormed,257.6,MPa,49,MPa,Cube/100mm,,,0.319,MPa,,Data taken from first half cycle
+Qu et al.,2015,TCA-1,600,mm,150,mm,100,mm,4.07,mm,ColdFormed,295,MPa,29,MPa,Cube/100mm,7.89,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCA-2,700,mm,150,mm,100,mm,4.07,mm,ColdFormed,295,MPa,39,MPa,Cube/100mm,41.5,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCA-3,800,mm,150,mm,100,mm,4.07,mm,ColdFormed,295,MPa,49,MPa,Cube/100mm,25,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCA-4,600,mm,200,mm,150,mm,4.43,mm,ColdFormed,242,MPa,49,MPa,Cube/100mm,61.4,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCA-5,700,mm,200,mm,150,mm,4.43,mm,ColdFormed,242,MPa,29,MPa,Cube/100mm,38.7,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCA-6,800,mm,200,mm,150,mm,4.43,mm,ColdFormed,242,MPa,39,MPa,Cube/100mm,52,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCA-7,700,mm,300,mm,200,mm,5.73,mm,ColdFormed,336,MPa,39,MPa,Cube/100mm,38.8,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCA-8,800,mm,300,mm,200,mm,5.73,mm,ColdFormed,336,MPa,49,MPa,Cube/100mm,38.1,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCA-9,900,mm,300,mm,200,mm,5.73,mm,ColdFormed,336,MPa,29,MPa,Cube/100mm,52,kN,,,SurfaceTreatment,
+Qu et al.,2015,TCB-1,600,mm,150,mm,100,mm,4.07,mm,ColdFormed,295,MPa,29,MPa,Cube/100mm,61.8,kN,,,,
+Qu et al.,2015,TCB-2,700,mm,150,mm,100,mm,4.07,mm,ColdFormed,295,MPa,39,MPa,Cube/100mm,75.1,kN,,,,
+Qu et al.,2015,TCB-3,800,mm,150,mm,100,mm,4.07,mm,ColdFormed,295,MPa,49,MPa,Cube/100mm,171,kN,,,,
+Qu et al.,2015,TCB-4,600,mm,200,mm,150,mm,4.43,mm,ColdFormed,242,MPa,49,MPa,Cube/100mm,178,kN,,,,
+Qu et al.,2015,TCB-5,700,mm,200,mm,150,mm,4.43,mm,ColdFormed,242,MPa,29,MPa,Cube/100mm,79.8,kN,,,,
+Qu et al.,2015,TCB-6,800,mm,200,mm,150,mm,4.43,mm,ColdFormed,242,MPa,41,MPa,Cube/100mm,170,kN,,,,
+Qu et al.,2015,TCB-7,700,mm,300,mm,200,mm,5.73,mm,ColdFormed,336,MPa,41,MPa,Cube/100mm,156,kN,,,,
+Qu et al.,2015,TCB-8,800,mm,300,mm,200,mm,5.73,mm,ColdFormed,336,MPa,49,MPa,Cube/100mm,290,kN,,,,
+Qu et al.,2015,TCB-9,900,mm,300,mm,200,mm,5.73,mm,ColdFormed,336,MPa,29,MPa,Cube/100mm,132,kN,,,,
