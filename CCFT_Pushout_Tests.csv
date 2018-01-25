@@ -163,3 +163,14 @@ Aly et al.,2010,D2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.93,M
 Aly et al.,2010,F2,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,,,0.95,MPa,CyclicLoad,Variable repeated load (VRL)
 Aly et al.,2010,G2,400,mm,114.3,mm,3.2,mm,350,MPa,91,MPa,Cylinder/100mm,,,0.35,MPa,CyclicLoad,Variable repeated load (VRL)
 Aly et al.,2010,H2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.7,MPa,CyclicLoad,Variable repeated load (VRL)
+Tao et al.,2016,CS120N1,600,mm,120,mm,4,mm,362,MPa,48.4,MPa,Cylinder,213,kN,,,StainlessSteel,
+Tao et al.,2016,CS120N2,600,mm,120,mm,4,mm,362,MPa,81.8,MPa,Cylinder,120,kN,,,StainlessSteel,
+Tao et al.,2016,CS120N3,600,mm,120,mm,4,mm,362,MPa,48.4,MPa,Cylinder,99,kN,,,StainlessSteel,
+Tao et al.,2016,CS120R1,600,mm,120,mm,4,mm,362,MPa,50.6,MPa,Cylinder,304,kN,,,StainlessSteel,
+Tao et al.,2016,CS400N1,1200,mm,400,mm,8,mm,321,MPa,42,MPa,Cylinder,333,kN,,,StainlessSteel,
+Tao et al.,2016,CS400E1,1200,mm,400,mm,8,mm,321,MPa,42.7,MPa,Cylinder,1100,kN,,,"StainlessSteel, ExpansiveConcrete",
+Tao et al.,2016,CC120N1,600,mm,120,mm,3.6,mm,339,MPa,48.4,MPa,Cylinder,390,kN,,,,
+Tao et al.,2016,CC400N1,1200,mm,400,mm,8,mm,372,MPa,42,MPa,Cylinder,868,kN,,,,
+Tao et al.,2016,CC400N2,1200,mm,400,mm,8,mm,372,MPa,54.4,MPa,Cylinder,58,kN,,,,
+Tao et al.,2016,CC400E1,1200,mm,400,mm,8,mm,372,MPa,42.7,MPa,Cylinder,1476,kN,,,ExpansiveConcrete,
+Tao et al.,2016,CC400E2,1200,mm,400,mm,8,mm,372,MPa,55.8,MPa,Cylinder,1100,kN,,,ExpansiveConcrete,
