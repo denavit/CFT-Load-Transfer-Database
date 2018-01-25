@@ -43,10 +43,17 @@ for i = 1:numData
         data(i).Year        = S.Year{i};
         data(i).Reference   = sprintf('%s %s',S.Author{i},S.Year{i});
         data(i).Specimen    = S.Specimen{i};
-        data(i).Tags        = S.Tags{i};
+        %data(i).Tags        = S.Tags{i};
         data(i).Notes       = S.Notes{i};
 
-
+        if isempty(S.Tags{i})
+            data(i).Tags = cell(0,1);
+        else
+            C = textscan(S.Tags{i},'%s','Delimiter',',');
+            data(i).Tags = C{1};
+        end
+        
+        
         % Steel Strength
         data(i).Fy     = unitConvert('stress',S.Fy(i),S.Fy_units{i},dbUnitSystem);
 

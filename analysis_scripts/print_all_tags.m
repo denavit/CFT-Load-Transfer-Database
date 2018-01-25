@@ -10,12 +10,15 @@ databases = {
 tags = cell(1,0);
 for i = 1:length(databases)
     load(fullfile(database_folder,sprintf('%s.mat',databases{i})))
-    if isnumeric(data(1).Tags)
-        continue
+    for j = 1:length(data)
+        for k = 1:length(data(j).Tags)
+            if ~any(strcmp(tags,data(j).Tags{k}))
+                tags = horzcat(tags,data(j).Tags{k});
+            end
+        end
     end
-    tags = horzcat(tags,unique({data(:).Tags}));
 end
-tags = unique(tags);
+tags = unique(tags); % should already be unique, but this sorts them alphabetically too
 tags = tags(~cellfun('isempty',tags));
 
 % Print the tags
