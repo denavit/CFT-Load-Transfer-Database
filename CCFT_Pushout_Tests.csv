@@ -163,6 +163,12 @@ Aly et al.,2010,D2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.93,M
 Aly et al.,2010,F2,400,mm,114.3,mm,3.2,mm,350,MPa,41,MPa,Cylinder/100mm,,,0.95,MPa,CyclicLoad,Variable repeated load (VRL)
 Aly et al.,2010,G2,400,mm,114.3,mm,3.2,mm,350,MPa,91,MPa,Cylinder/100mm,,,0.35,MPa,CyclicLoad,Variable repeated load (VRL)
 Aly et al.,2010,H2,400,mm,114.3,mm,3.2,mm,350,MPa,70,MPa,Cylinder/100mm,,,0.7,MPa,CyclicLoad,Variable repeated load (VRL)
+Tao et al.,2011,C1-0a,582,mm,194,mm,5.5,mm,380,MPa,52.3,MPa,Cube,567,kN,,,,
+Tao et al.,2011,C1-0b,582,mm,194,mm,5.5,mm,380,MPa,52.3,MPa,Cube,634.5,kN,,,,
+Tao et al.,2011,C2-0,582,mm,194,mm,5.5,mm,340,MPa,72.1,MPa,Cube,372.3,kN,,,,
+Tao et al.,2011,C3-0,582,mm,194,mm,5.5,mm,340,MPa,53.2,MPa,Cube,929.7,kN,,,,
+Tao et al.,2011,C4-0a,1131,mm,377,mm,8.1,mm,363,MPa,52.3,MPa,Cube,612.3,kN,,,,
+Tao et al.,2011,C4-0b,1131,mm,377,mm,8.1,mm,363,MPa,52.3,MPa,Cube,549.7,kN,,,,
 Tao et al.,2016,CS120N1,600,mm,120,mm,4,mm,362,MPa,48.4,MPa,Cylinder,213,kN,,,StainlessSteel,
 Tao et al.,2016,CS120N2,600,mm,120,mm,4,mm,362,MPa,81.8,MPa,Cylinder,120,kN,,,StainlessSteel,
 Tao et al.,2016,CS120N3,600,mm,120,mm,4,mm,362,MPa,48.4,MPa,Cylinder,99,kN,,,StainlessSteel,
